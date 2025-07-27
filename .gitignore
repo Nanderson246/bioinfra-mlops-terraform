@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.ipynb_checkpoints
+
+# MLflow
+mlruns/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Environment files
+.env
+*.log
+
+# Docker
+*.tar
+
+# Editor configs
+.vscode/
+.idea/
+
