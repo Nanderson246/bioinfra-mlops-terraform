@@ -1,8 +1,4 @@
-Absolutely! Here's your improved and **cleanly ordered** `README.md`, incorporating your original block into the earlier "Quick Start" section and aligning everything into a structured flow:
 
----
-
-````markdown
 # 🌍 Bioinfra MLOps Mini Project — Terraform + MLflow + Multi-Cloud
 
 This is a **portfolio-ready mini-project** that demonstrates how to build a complete **machine learning pipeline** using:
